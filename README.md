@@ -11,7 +11,7 @@ Proceso: Con base a la problemática planteada se pretende la creación de un si
 
 Resultado: Teniendo como resultado la purificación de agua, conforme al proceso aplicado, esto mandando la información si se llegara a vaciar el contenedor en forma de porcentaje, también cuantos recipientes cuantos ya lleno. Y de tal manera ofreciendo el agua más económica con los mejores estándares. También se considera que esto puede servir para ofrecerles a los micro empresarios para automaticen su servicio.
 
-Diagrama de datos*****
+DIAGRAMA GENERAL DE FLUJO DE DATOS
 
 Flujo de información que se guarda en la base de datos.
 
@@ -40,4 +40,12 @@ Veracidad: En nuestro proyecto consideramos que no cumple con esta dimensión ya
 
 Variedad: En este caso consideramos que nuestro proyecto no cumple con esta dimensión ya que no tiene distintas tipologías formatos y estructuras de los datos procediendo de fuentes muy diversas, pero es algo que debemos mejorar.
 
+DIAGRAMA ETL
+
+Proceso de extracción: Toda la información se obtendrá mediante la base de datos, haciendo las consultas desde la API.
+Con todos los datos extraídos se busca que nos indique en primera instancia el porcentaje del contenedor principal que entrará a purificación, este registro se hará con un sensor de agua. 
+
+También la información que nos indique sobre el total de embotellamientos que ha habido, esto mediante un sensor infrarrojo y también con la ayuda de un sensor de a proximidad ayudara a medir el llenado del embace esto con la finalidad de cuanta agua se ha despachado ya sea semanal o mensual.
+
+Toda la información extraída de la base de datos y por medio de consultas de la API, serán presentadas mediante graficas con forme al sensor establecido.
 
