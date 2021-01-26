@@ -28,7 +28,7 @@ para detectar que cuando ya este lleno la mini bomba deje de hacer su llenado y 
 de litros llenados y la fecha y hora.
 
 
-# #  Las 5´v del Big Data en nuestro proyecto.
+LAS 5´V DEL BIG DATA EN NUESTRO PROYECTO
 
 En nuestro proyecto esta presente el Volumen ya que se almacenara una gran cantidad de datos en nuestra base de datos, por ejemplo los datos de los sensores que se van enviando a la pagina web.
  
