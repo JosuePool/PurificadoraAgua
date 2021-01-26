@@ -1,4 +1,4 @@
-# PurificadoraAgua
+# PurificadoraDeAgua
 Proyecto Purificadora de agua por los alumnos del 5B
 
 PROYECTO PURIFICADORA DE AGUA
