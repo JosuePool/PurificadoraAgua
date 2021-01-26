@@ -58,5 +58,6 @@ Proceso de transformacion: Es importante cada dato enviado a nuestra base de dat
 Load(CARGA)
 La informacion proporcionada de los sensores de expresan en modo de graficas el cual indica el dia la hora y la cantidad, tambien utilizamos un LCD el cual nos muestra el estatus actual de nuestra purificadora, el llenado, cuanta agua se esta llenando, y muestra si se llena de forma automatica o manual.
 
-
+@JesusAndresKuKoyoc 5 commits
+Flujo de informacion que se guarda en la base de datos, ademas el proceso de transformacion, el load(Carga), Diagrama general y el proposito.
 
