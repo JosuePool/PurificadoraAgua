@@ -13,6 +13,10 @@ Resultado: Teniendo como resultado la purificación de agua, conforme al proceso
 
 DIAGRAMA GENERAL DE FLUJO DE DATOS
 
+El sensor de agua marcara el porcentaje del llenado del agua, una vez que se registre esto lo mandara a la base de datos, esto con una medida de tiempo de 15 segundos de retraso por cada registro.
+Por lo consiguiente el sensor de a proximidad, registra el llenado del embotellamiento, mediante la distancia y la cantidad por la cual se despacha mediante la medida de ml.
+Conforme al sensor de infrarrojo tiene la capacidad de registrar cuantas embaces se han registrado básicamente lo que hace es un conteo. Esto se registra previamente a la base de datos conforme se vaya detectando el ingreso del recipiente.
+
 Flujo de información que se guarda en la base de datos.
 
 
