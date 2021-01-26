@@ -28,11 +28,11 @@ para detectar que cuando ya este lleno la mini bomba deje de hacer su llenado y 
 de litros llenados y la fecha y hora.
 
 
-Las 5´v del Big Data en nuestro proyecto.
+# Las 5´v del Big Data en nuestro proyecto.
 
 En nuestro proyecto esta presente el Volumen ya que se almacenara una gran cantidad de datos en nuestra base de datos, por ejemplo los datos de los sensores que se van enviando a la pagina web.
  
-velocidad: en nuestro proyecto este dimencion se encuentra presente ya que los sensores al enviar los datos a la pagina web necesitan de una tenerminada velocidad, todo dependiendo de la calidad de los sensores y del senvicio de internet.
+velocidad: en nuestro proyecto este dimencion se encuentra presente ya que los sensores al enviar los datos a la pagina web necesitan de una tenerminada velocidad, todo dependiendo de la calidad de los sensores y del servicio de internet.
 
 Valor: En nuestro proyecto esta dimensión esta presente ya que los datos que se envían a nuestra base de datos son muy importante y útiles para cualquier usuario o cliente que adquiera el servicio.
 
