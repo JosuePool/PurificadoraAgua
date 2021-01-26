@@ -51,4 +51,8 @@ Toda la información extraída de la base de datos y por medio de consultas de l
 
 Proceso de transformacion: Es importante cada dato enviado a nuestra base de datos debido a que nuestra API funciona a base de eso, tambien es importante tener todo bien configurado debido a que los sensores funcionan bien gracias a ello y un error en la programacion puede hacer erronea la funcion. Tambien para permitirnos ver que dia tuvimos mayor venta debido a que los datos se transforman para poder conocer dichas cantidades y obtener nuestra ganancia. los datos que se extraen de igual forma nos sirve para ver si cada dispositivo esta enviado datos y no se encuentre dañada o cualquier otra situacion.
 
+Load(CARGA)
+La informacion proporcionada de los sensores de expresan en modo de graficas el cual indica el dia la hora y la cantidad, tambien utilizamos un LCD el cual nos muestra el estatus actual de nuestra purificadora, el llenado, cuanta agua se esta llenando, y muestra si se llena de forma automatica o manual.
+
+
 
