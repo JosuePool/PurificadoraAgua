@@ -22,3 +22,7 @@ velocidad: en nuestro proyecto este dimencion se encuentra presente ya que los s
 
 Valor: En nuestro proyecto esta dimensión esta presente ya que los datos que se envían a nuestra base de datos son muy importante y útiles para cualquier usuario o cliente que adquiera el servicio.
 
+Veracidad: En nuestro proyecto consideramos que no cumple con esta dimencion ya que por el momento no es capaz de eliminar los datos tomados de manera incorrecta y detectar patrones reales pero es algo que debemos mejorar ya que es un reto para el big data.
+
+Varieadad: En este caso consideramos que nuestro proyecto no cumple con esta dimencion ya que no tiene distintas tipologías formatos y estructuras de los datos procediendo de fuentes muy diversas, pero es algo que debemos mejorar.
+
