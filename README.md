@@ -13,6 +13,20 @@ Resultado: Teniendo como resultado la purificacion de agua, conforme al proceso 
 
 Diagrama de datos*****
 
+Flujo de informacion que se guarda en la base de datos.
+
+
+Envio de datos mediante el sensor de distancia, el sensor manda cuantos objetos ah detectado y a que hora, este nos sirve para saber 
+la cantidad de las botellas y asi tu mismo hacer tus cuentas y saber cuanta ganancia se obtuvo al dia a la semana o al mes debido a que 
+se puede filtrar que los registros no sean actualizados cada dia si no cada semana o cada mes. 
+
+Envio de datos mediante el sensor de agua, este envia datos de cuantos litros hay cada minuto a la base de datos y asi saber con cuanta agua
+potable comtamos para su purificacion, los datos enviados son litros de agua y la fecha y hora.
+
+Envio de datos mediante el sensor ultrasonico, estos datos envian la cantidad de agua que se encuentra llenandose en el recipiente, este nos sirve 
+para detectar que cuando ya este lleno la mini bomba deje de hacer su llenado y nos marque que el agua ya se encuentra lleno, el envio es la cantidad
+de litros llenados y la fecha y hora.
+
 
 Las 5´v del Big Data en nuestro proyecto.
 
