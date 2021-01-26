@@ -61,3 +61,4 @@ La informacion proporcionada de los sensores de expresan en modo de graficas el 
 Carlostun 5 commits(REALICE LAS 5´V DEL BIG DATA EN NUESTRO PROYECTO, DIAGRAMA GENERAL DE FLUJO DE DATOS)
 
 
+@JosuePool 5 commits Descripción general, proceso y resultado, también parte del diagrama de ETL y corrección de algunas faltas de ortográfica y agregación de acentos.
