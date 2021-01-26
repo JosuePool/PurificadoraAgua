@@ -58,10 +58,10 @@ Proceso de transformacion: Es importante cada dato enviado a nuestra base de dat
 Load(CARGA).
 La informacion proporcionada de los sensores de expresan en modo de graficas el cual indica el dia la hora y la cantidad, tambien utilizamos un LCD el cual nos muestra el estatus actual de nuestra purificadora, el llenado, cuanta agua se esta llenando, y muestra si se llena de forma automatica o manual.
 
+@Carlostun 5commits (REALICE LAS 5´V DEL BIG DATA EN NUESTRO PROYECTO, DIAGRAMA GENERAL DE FLUJO DE DATOS)
 
+@JesusAndresKuKoyoc 5commits Load (carga), proceso de transformacion, flujo de informacion que se guarda en la base de datos, proceso, parte final de diagrama de flujo de datos.
 
-
-
-Carlostun 5commits (REALICE LAS 5´V DEL BIG DATA EN NUESTRO PROYECTO, DIAGRAMA GENERAL DE FLUJO DE DATOS)
+@JosuePool 5 commmits Descripción general, proceso y resultado, también parte del diagrama de ETL y corrección de algunas faltas de ortográfica y agregación de acentos.
 
 
