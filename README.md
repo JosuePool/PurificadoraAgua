@@ -21,4 +21,4 @@ En nuestro proyecto esta presente el Volumen ya que se almacenara una gran canti
 velocidad: en nuestro proyecto este dimencion se encuentra presente ya que los sensores al enviar los datos a la pagina web necesitan de una tenerminada velocidad, todo dependiendo de la calidad de los sensores y del senvicio de internet.
 
 Valor: En nuestro proyecto esta dimensión esta presente ya que los datos que se envían a nuestra base de datos son muy importante y útiles para cualquier usuario o cliente que adquiera el servicio.
-123
+123456
