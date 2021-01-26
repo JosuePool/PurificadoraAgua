@@ -60,4 +60,6 @@ La informacion proporcionada de los sensores de expresan en modo de graficas el 
 
 Carlostun 5commits (REALICE LAS 5´V DEL BIG DATA EN NUESTRO PROYECTO, DIAGRAMA GENERAL DE FLUJO DE DATOS)
 
+@JesusAndresKuKoyoc 5commits Load (carga), proceso de transformacion, flujo de informacion que se guarda en la base de datos, proceso, parte final de diagrama de flujo de datos.
+
 
